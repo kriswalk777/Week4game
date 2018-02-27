@@ -1,0 +1,75 @@
+body {
+	background-image: url("../images/Background-1.jpg");
+}
+
+h1{
+	background-color: #b700ff8f;
+	color: white;
+	display:inline;
+	clear: both;
+	padding: 10px;
+	margin-bottom: 20px;
+	border: solid 1px #ddd;
+}
+
+#wrapper {
+	width: 100%;
+	max-width:960px;
+	margin: 0 auto;
+}
+
+#instructions {
+	background-color: hsla(227, 77%, 86%, 0.671);
+	width: 50%;
+	clear:both;
+	padding: 15px;
+	margin-top: 20px;
+	border: solid 1px #ddd
+}
+
+#guessingNumber {
+	background-color: #ffaa0b;
+	float: left;
+	display: inline-block;
+	padding: 10px;
+	margin-top: 20px;
+	border: solid 1px #ddd
+}
+
+#scoreboard {
+	background-color: #03A9F4;
+	display: inline-block;
+	padding: 15px 20px 10px 15px;
+	margin-top: 20px;
+	margin-left: 20px;
+	border: solid 1px #ddd
+
+}
+
+#crystals {
+	margin-top: 15px;
+	margin-bottom:26px;
+
+}
+
+.crystalImage {
+	height: 111px;
+	border: solid 1px #960d0d;
+	margin-left: 10px
+}
+
+.crystalImage:firstchild {
+	margin-left: 0px;
+
+}
+
+#totalScore {
+	margin-bottom: 50px;
+}
+
+#yts {
+	background: #e067e0;
+	display: inline;
+	padding: 20px;
+	border: solid 1px #ddd
+}
